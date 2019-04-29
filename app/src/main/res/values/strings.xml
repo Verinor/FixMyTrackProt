@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fix My Track</string>
+    <string name="title_activity_walker_report">Walker Rerort</string>
+    <string name="title_activity_engineer_location">Map</string>
+</resources>
